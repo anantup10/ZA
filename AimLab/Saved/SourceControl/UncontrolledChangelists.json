@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/temp/AimLab/AimLab/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/temp/AimLab/AimLab/Content/Blueprints/Target/BP_Target.uasset",
+				"C:/temp/AimLab/AimLab/Content/Blueprints/Target/E_Target.uasset",
+				"C:/temp/AimLab/AimLab/Content/Blueprints/Target/BP_SPAWNER.uasset"
+			]
+		}
+	]
+}
