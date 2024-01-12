@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Games/Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_SPAWNER.uasset",
+				"D:/Games/Aimlab/ZA/AimLab/Content/Blueprints/Generic_Interaction/BP_Generic_Interaction.uasset",
+				"D:/Games/Aimlab/ZA/AimLab/Content/Assets/Maps/L_Aim_Training.umap",
 				"C:/temp/AimLab/AimLab/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/temp/AimLab/AimLab/Content/Blueprints/Target/BP_Target.uasset",
 				"C:/temp/AimLab/AimLab/Content/Blueprints/Target/E_Target.uasset",
