@@ -1569,3 +1569,167 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.12-17.33.45:532][793]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
 [2024.01.12-17.33.45:745][794]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2024.01.12-17.33.48:254][799]LogUdpMessaging: Display: Added local interface '169.254.108.102' to multicast group '230.0.0.1:6666'
+[2024.01.12-17.39.01:031][736]LogDerivedDataCache: C:/Users/anant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.230 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5747 files in 7646 folders with total size 552 MiB.
+[2024.01.12-17.44.48:462][114]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.12-17.44.48:481][114]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.12-17.44.48:497][115]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.12-17.44.51:208][278]LogContentBrowser: Attempting asset rename: NewFolder -> Weapons
+[2024.01.12-17.44.51:209][278]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.12-17.48.41:343][300]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.01.12-17.48.41:357][300]LogContentBrowser: Creating deferred item: NewInterface
+[2024.01.12-17.48.41:413][302]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.01.12-17.48.46:209][585]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Damage
+[2024.01.12-17.48.46:316][585]LogContentBrowser: End creating deferred item NewInterface
+[2024.01.12-17.48.49:150][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BPI_Damage.BPI_Damage
+[2024.01.12-17.48.49:151][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-17.48.49:151][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-17.49.14:790][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.12-17.49.14:793][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.031
+[2024.01.12-17.49.14:794][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BPI_Damage] ([2] browsable assets)...
+[2024.01.12-17.49.14:794][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BPI_Damage]
+[2024.01.12-17.49.14:794][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BPI_Damage" FILE="../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Weapons/BPI_Damage_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-17.49.14:796][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BPI_Damage_Auto3
+[2024.01.12-17.49.14:796][874]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPI_Damage_Auto3EBD2DC114F5DB7517833459B2F694678.tmp' to '../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Weapons/BPI_Damage_Auto3.uasset'
+[2024.01.12-17.49.14:797][874]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.01.12-17.52.01:717][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.52.01:830][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BPI_Damage" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset" SILENT=true
+[2024.01.12-17.52.01:832][ 76]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPI_Damage
+[2024.01.12-17.52.01:832][ 76]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPI_Damage594555D442C05DE8172606B0ADC06269.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset'
+[2024.01.12-17.52.01:876][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.23 sec)
+[2024.01.12-17.52.01:877][ 76]AssetCheck: New page: Asset Save: BPI_Damage
+[2024.01.12-17.52.01:877][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BPI_Damage.BPI_Damage
+[2024.01.12-17.52.02:756][126]BlueprintLog: New page: Compile BPI_Damage
+[2024.01.12-17.52.02:785][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.12-17.52.03:804][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.52.03:915][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BPI_Damage" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset" SILENT=true
+[2024.01.12-17.52.03:919][182]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPI_Damage
+[2024.01.12-17.52.03:919][182]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPI_DamageE57B97F944E0B694D807D3BFEBB7500B.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset'
+[2024.01.12-17.52.03:937][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.37 sec)
+[2024.01.12-17.52.03:938][182]AssetCheck: New page: Asset Save: BPI_Damage
+[2024.01.12-17.52.03:938][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BPI_Damage.BPI_Damage
+[2024.01.12-17.52.33:868][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.12-17.52.33:869][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-17.52.33:869][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-17.52.42:316][450]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Target/E_Target.E_Target
+[2024.01.12-17.54.22:854][849]BlueprintLog: New page: Compile BP_Target
+[2024.01.12-17.54.22:917][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.12-17.54.23:452][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.54.23:554][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target/BP_Target" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset" SILENT=true
+[2024.01.12-17.54.23:574][865]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.12-17.54.23:574][865]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BP_Target6135858A4BB97CCF136E629A3C8E8DD6.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.12-17.54.23:589][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.50 sec)
+[2024.01.12-17.54.23:596][865]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.12-17.54.23:596][865]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.12-17.56.33:296][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.56.33:387][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BPI_Damage" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset" SILENT=true
+[2024.01.12-17.56.33:390][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BPI_Damage
+[2024.01.12-17.56.33:390][ 17]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPI_Damage87A4768E4454149D730B81B8E97CF4C7.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Weapons/BPI_Damage.uasset'
+[2024.01.12-17.56.33:397][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.60 sec)
+[2024.01.12-17.56.33:407][ 17]AssetCheck: New page: Asset Save: BPI_Damage
+[2024.01.12-17.56.33:407][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BPI_Damage.BPI_Damage
+[2024.01.12-17.59.36:417][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.12-17.59.36:420][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.025
+[2024.01.12-17.59.36:420][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Target/BP_Target] ([2] browsable assets)...
+[2024.01.12-17.59.36:451][478]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Target/BP_Target.BP_Target]
+[2024.01.12-17.59.36:451][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Target/BP_Target]
+[2024.01.12-17.59.36:451][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target/BP_Target" FILE="../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Target/BP_Target_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-17.59.36:472][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Target/BP_Target_Auto4
+[2024.01.12-17.59.36:472][478]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BP_Target_Auto48729E95B4D064BAECE83118B7F46D4B7.tmp' to '../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Target/BP_Target_Auto4.uasset'
+[2024.01.12-17.59.36:473][478]LogFileHelpers: Auto-saving content packages took 0.053
+[2024.01.12-18.00.13:732][527]BlueprintLog: New page: Compile BP_Target
+[2024.01.12-18.00.13:787][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.12-18.00.14:772][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.00.14:879][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target/BP_Target" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset" SILENT=true
+[2024.01.12-18.00.15:044][572]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.12-18.00.15:045][572]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BP_Target2D6CCC964E527FEC013CBDBC4E3B39AA.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.12-18.00.15:058][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 285 ms (total: 1.89 sec)
+[2024.01.12-18.00.15:067][572]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.12-18.00.15:067][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.12-18.08.30:063][160]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.12-18.08.30:072][160]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.12-18.08.30:092][161]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.12-18.08.35:249][464]LogContentBrowser: Attempting asset rename: NewFolder -> Liberaries
+[2024.01.12-18.08.35:249][464]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.12-18.09.09:518][ 35]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2024.01.12-18.09.09:530][ 35]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2024.01.12-18.09.09:569][ 37]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2024.01.12-18.09.15:101][369]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BPFL
+[2024.01.12-18.09.15:109][369]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2024.01.12-18.09.18:717][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Liberaries/BPFL.BPFL
+[2024.01.12-18.09.18:718][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-18.09.18:718][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-18.09.45:613][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.12-18.09.45:615][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.033
+[2024.01.12-18.09.45:615][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Target/BP_Target] ([2] browsable assets)...
+[2024.01.12-18.09.45:633][ 17]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Target/BP_Target.BP_Target]
+[2024.01.12-18.09.45:633][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Target/BP_Target]
+[2024.01.12-18.09.45:633][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target/BP_Target" FILE="../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Target/BP_Target_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-18.09.45:659][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Target/BP_Target_Auto5
+[2024.01.12-18.09.45:659][ 17]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BP_Target_Auto5A868C029429186DCD485828828961047.tmp' to '../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Target/BP_Target_Auto5.uasset'
+[2024.01.12-18.09.45:660][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Liberaries/BPFL] ([2] browsable assets)...
+[2024.01.12-18.09.45:660][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Liberaries/BPFL]
+[2024.01.12-18.09.45:660][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPFL" FILE="../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-18.09.45:662][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto5
+[2024.01.12-18.09.45:662][ 17]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPFL_Auto508CC307F40224A46DF2680B38E80989C.tmp' to '../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto5.uasset'
+[2024.01.12-18.09.45:663][ 17]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.01.12-18.18.27:649][176]LogSlate: Took 0.026916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.12-18.19.24:712][426]BlueprintLog: New page: Compile BPFL
+[2024.01.12-18.19.24:742][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.01.12-18.19.25:611][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.19.25:703][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPFL" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset" SILENT=true
+[2024.01.12-18.19.25:711][471]LogSavePackage: Moving output files for package: /Game/Blueprints/Liberaries/BPFL
+[2024.01.12-18.19.25:711][471]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPFLC99B54E2458CDB89ADA823B301714BEC.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset'
+[2024.01.12-18.19.25:728][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.01 sec)
+[2024.01.12-18.19.25:729][471]AssetCheck: New page: Asset Save: BPFL
+[2024.01.12-18.19.25:729][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Liberaries/BPFL.BPFL
+[2024.01.12-18.20.06:096][335]BlueprintLog: New page: Compile BPFL
+[2024.01.12-18.20.06:124][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.12-18.20.06:528][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.20.06:613][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPFL" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset" SILENT=true
+[2024.01.12-18.20.06:620][349]LogSavePackage: Moving output files for package: /Game/Blueprints/Liberaries/BPFL
+[2024.01.12-18.20.06:620][349]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPFL018AC47C4664022D55B4A2B0F17C1C30.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset'
+[2024.01.12-18.20.06:634][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.11 sec)
+[2024.01.12-18.20.06:643][349]AssetCheck: New page: Asset Save: BPFL
+[2024.01.12-18.20.06:643][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Liberaries/BPFL.BPFL
+[2024.01.12-18.21.25:449][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.12-18.21.25:450][353]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/L_Aim_Training' took 0.021
+[2024.01.12-18.21.25:451][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Liberaries/BPFL] ([2] browsable assets)...
+[2024.01.12-18.21.25:451][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Liberaries/BPFL]
+[2024.01.12-18.21.25:451][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPFL" FILE="../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-18.21.25:456][353]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto6
+[2024.01.12-18.21.25:456][353]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPFL_Auto647ACE25C4F0EFD3B1DC2C5AD5E6BB229.tmp' to '../../../../Aimlab/ZA/AimLab/Saved/Autosaves/Game/Blueprints/Liberaries/BPFL_Auto6.uasset'
+[2024.01.12-18.21.25:457][353]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.01.12-18.22.26:657][585]BlueprintLog: New page: Compile BPFL
+[2024.01.12-18.22.26:682][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.12-18.22.27:213][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.22.27:275][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPFL" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset" SILENT=true
+[2024.01.12-18.22.27:282][603]LogSavePackage: Moving output files for package: /Game/Blueprints/Liberaries/BPFL
+[2024.01.12-18.22.27:282][603]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPFL9E34666144E30F21224FFCAE1771BECB.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPFL.uasset'
+[2024.01.12-18.22.27:294][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.19 sec)
+[2024.01.12-18.22.27:294][603]AssetCheck: New page: Asset Save: BPFL
+[2024.01.12-18.22.27:294][603]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Liberaries/BPFL.BPFL
+[2024.01.12-18.22.30:192][746]BlueprintLog: New page: Compile BP_Target
+[2024.01.12-18.22.30:251][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.01.12-18.22.30:922][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.22.31:046][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Target/BP_Target" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset" SILENT=true
+[2024.01.12-18.22.31:072][770]LogSavePackage: Moving output files for package: /Game/Blueprints/Target/BP_Target
+[2024.01.12-18.22.31:072][770]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BP_Target987CCC6B40EB13C1C46A98953331971C.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Target/BP_Target.uasset'
+[2024.01.12-18.22.31:085][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 2.36 sec)
+[2024.01.12-18.22.31:096][770]AssetCheck: New page: Asset Save: BP_Target
+[2024.01.12-18.22.31:096][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Target/BP_Target.BP_Target
+[2024.01.12-18.25.10:546][832]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.12-18.25.10:557][832]LogContentBrowser: Deferred new asset file creation: NewMacroLibrary
+[2024.01.12-18.25.10:565][832]LogContentBrowser: Creating deferred item: NewMacroLibrary
+[2024.01.12-18.25.10:582][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewMacroLibrary).
+[2024.01.12-18.25.19:494][364]LogContentBrowser: Attempting asset rename: NewMacroLibrary -> BPML_Comparisions
+[2024.01.12-18.25.19:503][364]LogContentBrowser: End creating deferred item NewMacroLibrary
+[2024.01.12-18.25.21:276][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Liberaries/BPML_Comparisions.BPML_Comparisions
+[2024.01.12-18.25.21:277][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-18.25.21:277][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-18.31.05:094][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.31.05:193][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Liberaries/BPML_Comparisions" FILE="../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPML_Comparisions.uasset" SILENT=true
+[2024.01.12-18.31.05:197][258]LogSavePackage: Moving output files for package: /Game/Blueprints/Liberaries/BPML_Comparisions
+[2024.01.12-18.31.05:197][258]LogSavePackage: Moving '../../../../Aimlab/ZA/AimLab/Saved/BPML_ComparisionsACE2F17E4CBA8EA1F17B52BAAF39EB6D.tmp' to '../../../../Aimlab/ZA/AimLab/Content/Blueprints/Liberaries/BPML_Comparisions.uasset'
+[2024.01.12-18.31.05:214][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.48 sec)
+[2024.01.12-18.31.05:215][258]AssetCheck: New page: Asset Save: BPML_Comparisions
+[2024.01.12-18.31.05:215][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Liberaries/BPML_Comparisions.BPML_Comparisions
